@@ -1,10 +1,11 @@
 # Simple Ecommerce Store using React Redux  
 
-This is a simple project which shows Product Listing using Fake Store API (https://fakestoreapi.com/).
+This is a project which shows Product Listing and product details using Fake Store API (https://fakestoreapi.com/).
 
 ## Libraries Used
 
-ReactJS, Redux , React-Redux, Axios
+ReactJS, Redux , React-Redux, Axios,
+Middleware: Redux Thunk
 
 ### `npm start`
 
